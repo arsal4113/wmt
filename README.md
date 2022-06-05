@@ -34,3 +34,7 @@
 ## Design Pattern of my code?
 - I have created and used MVC(Model, View, Controller) design pattern because it provides a clean separation of the UI , Business Logic , Model or Data.
 - Using the MVC methodology allows easy modification of the entire application. Adding/updating the new type of views is simplified in the MVC pattern (as a single section is independent of the other sections). So, any changes in a certain section of the application will never affect the entire architecture. This, in turn, will help to increase the flexibility and scalability of the application.
+
+## Repository links
+- Bitbucket Link https://bitbucket.org/arsal4113/wmt/src/master/
+- Github https://github.com/arsal4113/wmt
