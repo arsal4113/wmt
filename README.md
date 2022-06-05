@@ -12,7 +12,7 @@
 ## Instruction to Run
 - Update the configurations related to the Database in the mvc/app/config/DB.cfg to the appropriate db settings
 - import the database in db/wunder.sql
-- import the folder mvc to your server root
+- import the folder wmt to your server root
 - Currently, it worked using the url http://localhost/wmt/public
 - composer install
 
